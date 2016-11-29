@@ -154,6 +154,9 @@ and then visit [localhost:3000](http://localhost:3000/), we should see a directo
 	  to '0s' (disabled).
 
 	  -v, Enable verbose logging
+	  
+		--proxy, Specifies the default proxy target to use when chisel
+	  receives a normal HTTP request.
 
 	  --help, This help text
 
